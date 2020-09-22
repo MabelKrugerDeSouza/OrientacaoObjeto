@@ -1,0 +1,13 @@
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.exe
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.deps.json
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.runtimeconfig.json
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.runtimeconfig.dev.json
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.dll
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\bin\Debug\netcoreapp3.1\Projeto_Curso.pdb
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.csprojAssemblyReference.cache
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.AssemblyInfoInputs.cache
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.AssemblyInfo.cs
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.csproj.CoreCompileInputs.cache
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.dll
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.pdb
+C:\Users\mabel\source\repos\Projeto_Curso\Projeto_Curso\obj\Debug\netcoreapp3.1\Projeto_Curso.genruntimeconfig.cache
