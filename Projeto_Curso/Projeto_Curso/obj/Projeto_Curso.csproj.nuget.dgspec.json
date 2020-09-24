@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mabel\\source\\repos\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj": {}
+    "C:\\Users\\mabel\\Source\\Repos\\OrientacaoObjeto\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mabel\\source\\repos\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj": {
+    "C:\\Users\\mabel\\Source\\Repos\\OrientacaoObjeto\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mabel\\source\\repos\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj",
+        "projectUniqueName": "C:\\Users\\mabel\\Source\\Repos\\OrientacaoObjeto\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj",
         "projectName": "Projeto_Curso",
-        "projectPath": "C:\\Users\\mabel\\source\\repos\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj",
+        "projectPath": "C:\\Users\\mabel\\Source\\Repos\\OrientacaoObjeto\\Projeto_Curso\\Projeto_Curso\\Projeto_Curso.csproj",
         "packagesPath": "C:\\Users\\mabel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mabel\\source\\repos\\Projeto_Curso\\Projeto_Curso\\obj\\",
+        "outputPath": "C:\\Users\\mabel\\Source\\Repos\\OrientacaoObjeto\\Projeto_Curso\\Projeto_Curso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mabel\\AppData\\Roaming\\NuGet\\NuGet.Config",
