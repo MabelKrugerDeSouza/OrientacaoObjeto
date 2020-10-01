@@ -7,8 +7,8 @@ namespace Projeto_Curso.Contas.DataTime
 {
     class RepresentandoHoraData
     {
-        static void Main(string[] agrs)
-        {
+        //static void Main(string[] agrs)
+        //{
 
             //----------------------------------------------------------------------------------------------
 
@@ -112,6 +112,6 @@ namespace Projeto_Curso.Contas.DataTime
             Console.WriteLine(d2);
              
              */
-        }
+       // }
     }
 }
